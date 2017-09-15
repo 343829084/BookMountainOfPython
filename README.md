@@ -7,6 +7,7 @@ Here I will detail the various stages of Python's book, the viewing guide, and t
 
 ## 目前暂且就将所有领域分为这九大方向，算是基础，太复杂的领域估计有生之年不会碰触了，希望大家多来补充补充。多谢啦！！
 
+## 上面有我整理的百度网盘的网址，都是有关于技术方向的书，希望大家能给出自己读书的感受和对某本书的评价。
 
 >1.openstack云计算方向
 >
