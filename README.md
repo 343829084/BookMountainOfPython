@@ -4,6 +4,8 @@ Here I will detail the various stages of Python's book, the viewing guide, and t
 ## 在这里，我把我这两年接触Python或是了解一点的一点点领域分类的知识很大胆的分享出来，希望各位大牛、大爷们多多喷我，我受得住，我们一起把这个项目改进。
 
 
+## 目前暂且就将所有领域分为这九大方向，算是基础，太复杂的领域估计有生之年不会碰触了，希望大家多来补充补充。多谢啦！！
+
 
 >1.openstack云计算方向
 >
