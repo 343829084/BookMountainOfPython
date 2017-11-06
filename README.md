@@ -17,7 +17,13 @@ Here I will detail the various stages of Python's book, the viewing guide, and t
 >
 >4.自动化测试方向
 >
->5.机器学习方向
+>5.人工智能方向
+* 自然语言处理
+
+*深度学习
+
+*机器学习算法
+
 >
 >6.爬虫方向
 >
