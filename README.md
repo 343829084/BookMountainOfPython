@@ -19,10 +19,12 @@ Here I will detail the various stages of Python's book, the viewing guide, and t
 >
 >5.人工智能方向
 * 自然语言处理
+1.《Natural Language Processing with Python》
+`推荐理由:以python自然语言中最丰富使用的库NLTK为基础来学习基本的自然语言知识，包括一些基本数据分析的基础，和建模思路`
 
-*深度学习
+* 深度学习
 
-*机器学习算法
+* 机器学习算法
 
 >
 >6.爬虫方向
