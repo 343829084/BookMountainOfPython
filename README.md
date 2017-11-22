@@ -36,6 +36,10 @@ Here I will detail the various stages of Python's book, the viewing guide, and t
 >8.算法方向
 >
 >9.运维以及工具开发方向
+>
+>10.文章推荐
 
+* 最佳实践
 
-
+1.《Python最佳实践》
+`推荐理由：包括K大神的通过自己的经验总结出的最佳实践`
